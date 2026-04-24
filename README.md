@@ -44,5 +44,23 @@
 
 Файл с данными должен называться:
 
+Необходимые библиотеки:
+pip install numpy pandas matplotlib seaborn scipy scikit-learn optuna joblib ucimlrepo jupyter
+
+## Зависимости
+
+Проект использует:
+
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
+- scikit-learn
+- Optuna
+- Joblib
+- Jupyter Notebook
+
 ```text
 online_shoppers_intention.csv
